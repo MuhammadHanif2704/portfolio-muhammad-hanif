@@ -1,8 +1,6 @@
 # Portfolio Muhammad Hanif
 
-**Software Developer | Mobile & Web**
-
-Lulusan S1 Sistem Informasi Universitas Bina Sarana Informatika (2022 – 2026) dengan pengalaman mengembangkan aplikasi web dan mobile melalui proyek dan Praktik Kerja Lapangan. Terbiasa mengembangkan fitur aplikasi, mengelola basis data, mengintegrasikan REST API, menguji aplikasi, dan menggunakan Git/GitHub dalam proses pengembangan.
+Lulusan S1 Sistem Informasi Universitas Bina Sarana Informatika (2022–2026) dengan pengalaman membangun aplikasi web dan mobile melalui proyek serta Praktik Kerja Lapangan. Terbiasa mengembangkan fitur aplikasi, merancang dan mengelola basis data, mengintegrasikan REST API, melakukan pengujian, serta menggunakan Git/GitHub dalam alur pengembangan.
 
 ## Portfolio
 
@@ -35,7 +33,27 @@ Aplikasi mobile berbasis Flutter untuk mendukung operasional kurir dalam proses 
 - Mengelola kode dengan Git/GitHub.
 - Mempresentasikan hasil aplikasi kepada pihak perusahaan sebagai bahan evaluasi.
 
-### 2. Sistem Informasi Pembayaran Listrik Pascabayar
+### 2. Manajemen Keuangan
+**Peran:** Web Developer  
+**Demo:** [fintrack-go.freedev.app](https://fintrack-go.freedev.app)  
+**Teknologi:** Laravel, PHP, MySQL, Tailwind CSS, ApexCharts, Figma, Git/GitHub
+
+Sistem informasi web untuk mencatat, melacak, dan menganalisis arus kas secara real-time.
+
+**Fitur:**
+- Dashboard analitik dengan visualisasi grafik arus kas
+- Pencatatan transaksi pemasukan dan pengeluaran
+- Laporan keuangan dengan filter periode bulan dan tahun
+- Ekspor data laporan transaksi ke format CSV
+- Autentikasi pengguna dengan reset password via email (SMTP)
+
+**Kontribusi:**
+- Membangun backend dan frontend menggunakan Laravel.
+- Mendesain antarmuka modern menggunakan Figma dan Tailwind CSS.
+- Mengintegrasikan ApexCharts untuk visualisasi data dari database.
+- Mengonfigurasi dan men-deploy aplikasi beserta database ke hosting InfinityFree.
+
+### 3. Sistem Informasi Pembayaran Listrik Pascabayar
 **Peran:** Web Developer  
 **Teknologi:** PHP, MySQL, CodeIgniter 3, XAMPP, VS Code
 
@@ -54,7 +72,7 @@ Sistem informasi berbasis web untuk mengelola pembayaran listrik pascabayar.
 - Merancang dan mengelola struktur database pelanggan, tarif, penggunaan listrik, dan transaksi.
 - Mengimplementasikan operasi CRUD.
 
-### 3. Sistem Informasi Manajemen Restoran
+### 4. Sistem Informasi Manajemen Restoran
 **Peran:** Web Developer  
 **Teknologi:** PHP, MySQL, HTML, CSS, CodeIgniter 3, XAMPP
 
