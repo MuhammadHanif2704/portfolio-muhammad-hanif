@@ -33,7 +33,7 @@ Aplikasi mobile berbasis Flutter untuk mendukung operasional kurir dalam proses 
 - Mengelola kode dengan Git/GitHub.
 - Mempresentasikan hasil aplikasi kepada pihak perusahaan sebagai bahan evaluasi.
 
-### 2. Manajemen Keuangan (FinTrack)
+### 2. Manajemen Keuangan
 **Peran:** Web Developer  
 **Demo:** [fintrack-go.freedev.app](https://fintrack-go.freedev.app)  
 **Akun demo:** `demo@fintrack.test` / `password-demo`  
