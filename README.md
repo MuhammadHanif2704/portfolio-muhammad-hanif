@@ -63,17 +63,20 @@ Sistem informasi web untuk mencatat, melacak, dan menganalisis arus kas secara r
 Sistem informasi berbasis web untuk mengelola pembayaran listrik pascabayar.
 
 **Fitur:**
-- Pencatatan penggunaan listrik
-- Perhitungan tagihan
-- Histori pembayaran
-- Login admin dan pelanggan
-- Pengelolaan data pelanggan, tarif, dan transaksi
+- Registrasi dan login admin/pelanggan dengan pembagian hak akses
+- Dashboard ringkasan tagihan dan statistik
+- Pengelolaan data pelanggan dan tarif (CRUD)
+- Input penggunaan listrik dengan pembuatan tagihan otomatis
+- Pembayaran dan verifikasi pembayaran oleh admin
+- Laporan transaksi dengan filter, cetak, dan ekspor CSV
 
 **Kontribusi:**
-- Membangun sistem menggunakan PHP dan MySQL.
-- Mengembangkan logika perhitungan tagihan.
-- Merancang dan mengelola struktur database pelanggan, tarif, penggunaan listrik, dan transaksi.
-- Mengimplementasikan operasi CRUD.
+- Membangun sistem web menggunakan PHP, CodeIgniter 3 (MVC), dan MySQL.
+- Merancang struktur database 7 tabel beserta relasinya.
+- Membuat view, stored procedure, function, trigger, dan transaksi SQL (commit/rollback).
+- Mengembangkan logika perhitungan tagihan otomatis.
+- Menerapkan autentikasi dan hak akses admin/pelanggan.
+- Melakukan debugging dan pengujian blackbox pada fitur utama.
 
 ### 4. Sistem Informasi Manajemen Restoran
 **Peran:** Web Developer  
