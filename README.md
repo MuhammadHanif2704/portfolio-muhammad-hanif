@@ -1,10 +1,17 @@
 # Portfolio Muhammad Hanif
 
-Lulusan S1 Sistem Informasi Universitas Bina Sarana Informatika (2022–2026) dengan pengalaman membangun aplikasi web dan mobile melalui proyek serta Praktik Kerja Lapangan. Terbiasa mengembangkan fitur aplikasi, merancang dan mengelola basis data, mengintegrasikan REST API, melakukan pengujian, serta menggunakan Git/GitHub dalam alur pengembangan.
+Lulusan S1 Sistem Informasi Universitas Bina Sarana Informatika (2022–2026) dengan IPK 3,92/4,00 dan pengalaman membangun aplikasi web dan mobile melalui proyek serta Praktik Kerja Lapangan. Terbiasa mengembangkan fitur aplikasi, merancang dan mengelola basis data, mengintegrasikan REST API, melakukan pengujian, serta menggunakan Git/GitHub dalam alur pengembangan.
 
 ## Portfolio
 
 📄 **[Lihat Portfolio PDF](./Portofolio_Muhammad_Hanif.pdf)**
+
+## Pendidikan
+
+| Institusi | Program | Periode |
+|---|---|---|
+| Universitas Bina Sarana Informatika | S1 Sistem Informasi (IPK 3,92/4,00) | 2022 – 2026 |
+| MAN 2 Kota Bekasi | Jurusan IPS | 2019 – 2022 |
 
 ## Pengalaman
 
