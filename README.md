@@ -118,9 +118,9 @@ Sistem informasi berbasis web untuk membantu pengelolaan operasional restoran.
 ## Sertifikasi & Pelatihan
 
 - Sertifikasi Kompetensi Pengembang Perangkat Lunak — BNSP (2025)
-- Sertifikasi Profisiensi Pengetahuan Database Systems — IAII (2023)
+- Sertifikasi Profisiensi Pengetahuan Database Systems — IAII (Ikatan Ahli Informatika Indonesia (2023)
 - Software Engineering — Coding Camp RevoU (2025)
-- Pelatihan Enterprise Resource Planning (ERP) Odoo (2026)
+- Sertifikasi Enterprise Resource Planning (ERP) Odoo — Jidoka System (2026)
 - Pelatihan Online Flutter Development — Udemy (2026)
 - Pelatihan Online Laravel Development — Udemy (2026)
 - TOEFL Prediction Test — Lembaga Bahasa UBSI (2026), skor 567
