@@ -1,6 +1,6 @@
 # Portfolio Muhammad Hanif
 
-Lulusan S1 Sistem Informasi Universitas Bina Sarana Informatika (2022–2026) dengan IPK 3,92/4,00 dan pengalaman membangun aplikasi web dan mobile melalui proyek serta Praktik Kerja Lapangan. Terbiasa mengembangkan fitur aplikasi, merancang dan mengelola basis data, mengintegrasikan REST API, melakukan pengujian, serta menggunakan Git/GitHub dalam alur pengembangan.
+Lulusan S1 Sistem Informasi Universitas Bina Sarana Informatika (2022–2026) dengan IPK 3,92/4,00 dan pengalaman membangun aplikasi web dan mobile melalui proyek serta Praktik Kerja Lapangan. Berpengalaman menggunakan PHP, Laravel, Next.js, MySQL, Flutter, Dart, React Native, HTML, CSS, JavaScript, serta integrasi REST API. Terbiasa mengembangkan fitur aplikasi, merancang dan mengelola basis data, melakukan pengujian, serta menggunakan Git/GitHub dalam alur pengembangan.
 
 ## Portfolio
 
@@ -31,6 +31,14 @@ Lulusan S1 Sistem Informasi Universitas Bina Sarana Informatika (2022–2026) de
 **Teknologi:** Flutter, Dart, REST API, Postman, Figma, Git/GitHub
 
 Aplikasi mobile berbasis Flutter untuk mendukung operasional kurir dalam proses pengiriman barang, terhubung dengan layanan backend melalui REST API.
+
+**Fitur:**
+- Dashboard ringkasan status dan aktivitas pengiriman
+- Shipment: pengelolaan data dan status pengiriman
+- Manifest: daftar paket per rute/kurir
+- Proof of Delivery (POD): bukti kirim foto/tanda tangan
+- Master Data: data kurir, area, dan data pendukung
+- Barcode / AWB Scanning: scan resi untuk input dan pelacakan
 
 **Kontribusi:**
 - Mengembangkan aplikasi kurir mobile dengan Flutter dan Dart.
@@ -63,7 +71,26 @@ Sistem informasi web untuk mencatat, melacak, dan menganalisis arus kas secara r
 - Mengintegrasikan ApexCharts untuk visualisasi data dari database.
 - Mengonfigurasi dan men-deploy aplikasi beserta database ke hosting InfinityFree.
 
-### 3. Sistem Informasi Pembayaran Listrik Pascabayar
+### 3. Manajemen Inventory
+**Peran:** Full-Stack Web Developer  
+**Teknologi:** Next.js, TypeScript, Tailwind CSS, Prisma ORM, MySQL, Recharts, Lucide React
+
+Sistem informasi web full-stack untuk mengelola data produk, kategori, supplier, serta memantau persediaan dan riwayat aktivitas stok secara real-time.
+
+**Fitur:**
+- Dashboard statistik inventory dengan Recharts
+- Pengelolaan produk, kategori, dan supplier (CRUD)
+- Pemantauan stok dan riwayat aktivitas secara real-time
+- Filter laporan bulanan dan ekspor data ke CSV
+- Autentikasi dan Role-Based Access Control (RBAC) untuk peran Admin dan Staff Gudang
+
+**Kontribusi:**
+- Membangun aplikasi full-stack menggunakan Next.js dan TypeScript.
+- Mendesain antarmuka dashboard menggunakan Tailwind CSS.
+- Mengelola database MySQL menggunakan Prisma ORM.
+- Menerapkan autentikasi dan Role-Based Access Control.
+
+### 4. Sistem Informasi Pembayaran Listrik Pascabayar
 **Peran:** Web Developer  
 **Teknologi:** PHP, MySQL, CodeIgniter 3, XAMPP, VS Code
 
@@ -85,44 +112,27 @@ Sistem informasi berbasis web untuk mengelola pembayaran listrik pascabayar.
 - Menerapkan autentikasi dan hak akses admin/pelanggan.
 - Melakukan debugging dan pengujian blackbox pada fitur utama.
 
-### 4. Sistem Informasi Manajemen Restoran
-**Peran:** Web Developer  
-**Teknologi:** PHP, MySQL, HTML, CSS, CodeIgniter 3, XAMPP
-
-Sistem informasi berbasis web untuk membantu pengelolaan operasional restoran.
-
-**Fitur:**
-- Pengelolaan menu
-- Pengelolaan pesanan
-- Reservasi meja
-- Laporan keuangan
-- Login user dan admin
-
-**Kontribusi:**
-- Mengembangkan backend menggunakan PHP dan MySQL.
-- Membangun tampilan menggunakan HTML dan CSS.
-- Mengimplementasikan autentikasi user dan admin.
-- Mengelola data dengan operasi CRUD dan struktur database relasional.
-
 ## Skills
 
 | Kategori | Teknologi |
 |---|---|
-| Programming | PHP, JavaScript, Dart, Python |
+| Programming | PHP, JavaScript, TypeScript, Dart, Python |
 | Web Development | HTML, CSS, JavaScript, PHP |
-| Framework | Laravel, CodeIgniter, Flutter |
-| API & Database | REST API, MySQL, CRUD, Database Design |
+| Framework | Laravel, CodeIgniter, Flutter, Next.js, React Native |
+| API & Database | REST API, MySQL, Prisma ORM, CRUD, Database Design |
 | Tools | Git/GitHub, VS Code, XAMPP, Postman, Figma |
 | Soft Skill | Problem Solving, Analytical Thinking, Self-directed Learning, Time Management, Teamwork |
 
 ## Sertifikasi & Pelatihan
 
 - Sertifikasi Kompetensi Pengembang Perangkat Lunak — BNSP (2025)
-- Sertifikasi Profisiensi Pengetahuan Database Systems — IAII (Ikatan Ahli Informatika Indonesia (2023)
-- Software Engineering — Coding Camp RevoU (2025)
-- Sertifikasi Enterprise Resource Planning (ERP) Odoo — Jidoka System (2026)
+- Pelatihan Enterprise Resource Planning (ERP) Odoo — Jidoka System (2026)
 - Pelatihan Online Flutter Development — Udemy (2026)
 - Pelatihan Online Laravel Development — Udemy (2026)
+- Pelatihan Online Next.js 15 Lengkap (TypeScript) — Udemy (2026)
+- Pelatihan Online JavaScript Dasar — Codepolitan (2025)
+- Sertifikasi Profisiensi Pengetahuan Database Systems — IAII (Ikatan Ahli Informatika Indonesia) (2023)
+- Software Engineering — Coding Camp RevoU (2025)
 - TOEFL Prediction Test — Lembaga Bahasa UBSI (2026), skor 567
 
 ## Kontak
