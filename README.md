@@ -130,6 +130,7 @@ Sistem informasi berbasis web untuk mengelola pembayaran listrik pascabayar.
 - Pelatihan Online Flutter Development — Udemy (2026)
 - Pelatihan Online Laravel Development — Udemy (2026)
 - Pelatihan Online Next.js 15 Lengkap (TypeScript) — Udemy (2026)
+- Pelatihan Online The Complete JS Full-Stack Web Development — Udemy (2026)
 - Pelatihan Online JavaScript Dasar — Codepolitan (2025)
 - Sertifikasi Profisiensi Pengetahuan Database Systems — IAII (Ikatan Ahli Informatika Indonesia) (2023)
 - Software Engineering — Coding Camp RevoU (2025)
